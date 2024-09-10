@@ -2,7 +2,7 @@ Mysql:
   Host: 192.168.2.204
   Port: 30306
   User: root
-  Pwd: 3378382
+  Pwd: 123456
 
 Slave:
   ServerID: 1000
