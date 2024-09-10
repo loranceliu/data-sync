@@ -1,0 +1,13 @@
+Mysql:
+  Host: 192.168.2.204
+  Port: 30306
+  User: root
+  Pwd: 3378382
+
+Slave:
+  ServerID: 1000
+  Flavor: mysql
+  Binlog: mysql-bin.000002
+  Pos: 1
+  LoadNew: false
+  LoadPath: "/Users/liu/Downloads/a1/"
